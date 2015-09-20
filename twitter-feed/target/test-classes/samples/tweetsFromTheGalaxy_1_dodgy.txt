@@ -1,0 +1,4 @@
+Arthur> Random numbers> should not be generated with a method chosen at random.
+Arthur> She sells sea shells on the sea shore, She sells sea shells on the sea shore, She sells sea shells on the sea shore, She sells sea shells on the sea shore.
+Arthur>
+

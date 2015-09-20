@@ -1,0 +1,9 @@
+- Querying the tweets only of a single user is not required.
+- The application is not designed for multi-threaded use.
+- Errors in data does not halt the application.
+- User names are case sensitive.
+- Logging output was not asserted in test cases.
+- Size of the data readable is limited by available memory.
+- Performance is limited by the IO of the disk - for larger data sets, a DB used as a intermediary store may prove faster.
+- If the JVM is killed the application has no recoverability.
+- The application is written to run on a single JVM.

@@ -1,0 +1,8 @@
+To compile the application:
+>mvn clean install
+
+To compile the runnable jar with dependencies:
+>mvn clean install assembly:single
+
+To run the compiled jar (with provided samples), from the root of the project folder:
+>java -jar target/twitter-feed-1.0.0-jar-with-dependencies.jar src/test/resources/examples/user.txt src/test/resources/examples/tweet.txt

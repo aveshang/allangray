@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="twitter-feed:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/twitter_feed_jar</output-path>
+    <root id="archive" name="twitter-feed.jar">
+      <element id="module-output" name="twitter-feed" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.1" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.6" />
+    </root>
+  </artifact>
+</component>

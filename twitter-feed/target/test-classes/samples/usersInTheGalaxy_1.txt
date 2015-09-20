@@ -1,0 +1,4 @@
+Ford follows Arthur
+Arthur follows Zaphod
+Ford follows Zaphod, Arthur
+Zaphod follows Ford, Ford, Zaphod
